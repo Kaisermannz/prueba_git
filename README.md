@@ -15,8 +15,10 @@
 ## Características
 
 1. Generación de una representación visual del alineamiento mediante Graphviz.
-2.     Cálculo del puntaje óptimo del alineamiento para evaluar la calidad del resultado.
-3.     Opción para guardar los resultados en un archivo de texto.
+   
+2. Cálculo del puntaje óptimo del alineamiento para evaluar la calidad del resultado.
+   
+3. Opción para guardar los resultados en un archivo de texto.
 
 ------------
 
@@ -42,10 +44,10 @@
 
 - `$ ./needleman_wusch -w < ruta/archivo1.txt >`
 
-> .[!WARNING].
+> [!WARNING]
 > Solo acepta formatos FASTA .fna
 
-> .[!TIP].
+> [!TIP]
 > En la carpeta Secuencias hay secuencias para poder probar.
 
 
